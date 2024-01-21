@@ -12,6 +12,7 @@ header {
   height: 80px;
   /* background-color: #ffffff; */
   border-bottom: 1px solid #cecaca;
+  width:100%;
 }
 .main_logo {
   /* width: 53px; */
@@ -25,7 +26,7 @@ header {
 }
 .nav_bar {
   display: flex;
-  min-width: 400px;/*500px*/
+  min-width: 100%;/*500px*/
   justify-content: space-evenly;
 }
 .nav_bar a {
